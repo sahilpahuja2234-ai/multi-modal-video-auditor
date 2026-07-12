@@ -244,7 +244,7 @@ Please keep commits atomic and write clear PR descriptions.
 
 ---
 ## Contributors
-@sahilpahuja2234-ai
+[@sahilpahuja2234-ai](https://github.com/sahilpahuja2234-ai)
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
