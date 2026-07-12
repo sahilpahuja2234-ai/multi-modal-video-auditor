@@ -243,7 +243,8 @@ Contributions are welcome! Please follow these steps:
 Please keep commits atomic and write clear PR descriptions.
 
 ---
-
+## Contributors
+@sahilpahuja2234-ai
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
