@@ -33,9 +33,8 @@ It runs entirely in your browser with no cloud infrastructure required beyond a 
 
 ## Demo
 
-| Idle State | Live Analysis |
-|:---:|:---:|
-| ![Idle state screenshot](assets/screenshot-idle.png) | ![Live analysis screenshot](assets/screenshot-live.png) |
+[<img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/36d6cc44-4208-4295-b625-ff0fd3db9af6" />
+](https://s8.ezgif.com/tmp/ezgif-89bf8e89b6212799.gif)
 
 > *Screenshots are illustrative. Replace with your own once the app is running.*
 
